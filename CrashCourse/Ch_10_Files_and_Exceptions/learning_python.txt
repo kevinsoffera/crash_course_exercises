@@ -1,0 +1,6 @@
+In Python you can work with lists to present data
+In Python you can use if statements and conditionals
+In Python you can use dictonaries to store key-value pairs
+In Python you can use user inputs in a program
+In Python you can use functions to make a program more efficient
+In Python you can use classes to group together similar methods to be efficient
